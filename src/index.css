@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 40;
+  background-color: #ddd;
+}
+
+.btn {
+  @apply bg-orange-500
+    py-1 px-3 my-2
+    inline-block
+    text-white
+    rounded-md
+    border-2
+    border-pink-600;
+}
+
+/* .btn {
+  background-color: orange;
+  padding: 10px 15px;
+  margin: 10px 0px;
+  display: inline-block;
+  color: white;
+  border-radius: 5px;
+} */

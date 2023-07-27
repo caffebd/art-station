@@ -1,0 +1,73 @@
+{
+  "designs": [
+    {
+      "id": 1,
+      "title": "Home Logo 1",
+      "short": "home-1",
+      "description": "A logo for Real Estate Companies, Rentals etc...",
+      "dl": "/downloads/home/home_1.ai",
+      "img": "/images/logos/home_1.png",
+      "vid": "https://www.youtube.com/embed/___9_TmXzdk",
+      "searchtags": "Real Estate Homes Rental",
+      "tags": ["Real Estate", "Home", "Rental"]
+    },
+    {
+      "id": 2,
+      "title": "Home Logo 2",
+      "short": "home-2",
+      "description": "A logo for Real Estate Companies, Rentals etc...",
+      "dl": "/downloads/home/home_2.ai",
+      "img": "/images/logos/home_2.png",
+      "vid": "https://www.youtube.com/embed/___9_TmXzdk",
+      "searchtags": "Real Estate Homes Rental",
+      "tags": ["Real Estate", "Home", "Rental"]
+    },
+    {
+      "id": 3,
+      "title": "Home Logo 3",
+      "short": "home-3",
+      "description": "A logo for Real Estate Companies, Rentals etc...",
+      "dl": "/downloads/home/home_3.ai",
+      "img": "/images/logos/home_3.png",
+      "vid": "https://www.youtube.com/embed/___9_TmXzdk",
+      "searchtags": "Real Estate Homes Rental",
+      "tags": ["Real Estate", "Home", "Rental"]
+    },
+    {
+      "id": 4,
+      "title": "Home Logo 4",
+      "short": "home-4",
+      "description": "A logo for Real Estate Companies, Rentals etc...",
+      "dl": "/downloads/home/home_4.ai",
+      "img": "/images/logos/home_4.png",
+      "vid": "https://www.youtube.com/embed/___9_TmXzdk",
+      "searchtags": "Real Estate Homes Rental",
+      "tags": ["Real Estate", "Home", "Rental"]
+    },
+    {
+      "id": 5,
+      "title": "Home Logo 5",
+      "short": "home-5",
+      "description": "A logo for Real Estate Companies, Rentals etc...",
+      "dl": "/downloads/home/home_5.ai",
+      "img": "/images/logos/home_5.png",
+      "vid": "https://www.youtube.com/embed/___9_TmXzdk",
+      "searchtags": "Real Estate Homes Rental",
+      "tags": ["Real Estate", "Home", "Rental"]
+    },
+    {
+      "id": 6,
+      "title": "Home Logo 6",
+      "short": "home-6",
+      "description": "A logo for Real Estate Companies, Rentals etc...",
+      "dl": "/downloads/home/home_6.ai",
+      "img": "/images/logos/home_6.png",
+      "vid": "https://www.youtube.com/embed/___9_TmXzdk",
+      "searchtags": "Real Estate Homes Rental",
+      "tags": ["Real Estate", "Home", "Rental"]
+    }
+    
+  ]
+}
+
+
